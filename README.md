@@ -1,6 +1,6 @@
 # PrivacyAsst
 
-This repository is committed to offering a privacy-preserving framework tailored for large language models.
+This repository is committed to offering a privacy-preserving framework tailored for large language model agents.
 
 The code will be made available upon publication of the associated paper due to confidentiality reasons.
 
