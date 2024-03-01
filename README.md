@@ -1,7 +1,15 @@
 # PrivacyAsst
 
-This repository is committed to offering a privacy-preserving framework tailored for large language model agents.
+This repository is the official implementation of PrivacyAsst: Safeguarding User Privacy in Tool-Using Large Language Model Agents (TDSC 2024).
 
-The code will be made available upon publication of the associated paper due to confidentiality reasons.
+## Installation
 
-For non-commercial purposes, please contact us at xinyuzhang53 AT zju.edu.cn to request access to the codebase. 
+## Usage
+
+## Citation
+If you find this work useful in your method, you can cite the paper below:
+
+
+## Acknowledgement
+
+[HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://github.com/microsoft/JARVIS/tree/main/hugginggpt)
