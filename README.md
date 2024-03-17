@@ -102,6 +102,10 @@ if DH_KEY_1 is not None and task["task"] in ["text-to-image"]:
     task["args"]["text"] = f"{text_tmp} [using key={DH_KEY_1}]"
 ```
 
+### server/get_token_ids.py
+`text.task` in function `get_token_ids_for_task_parsing` needs to add "encryption-image-classification".
+
+
 ### server/diffusers_enc/pipelines/stable_diffusion/pipeline_stable_diffusion.py
 
 **diffusers_enc: Privacy Attributes**
@@ -181,8 +185,10 @@ return StableDiffusionPipelineOutput(images=image, nsfw_content_detected=has_nsf
 
 ## Examples
 
-Success log:
 ### Encryption-based Solution
+
+Success log:
+
 ```
 {
     "input": "can you classify the encryption image /encimages/ts_encoding.pkl", 
