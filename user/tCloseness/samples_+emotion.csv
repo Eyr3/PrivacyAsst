@@ -1,0 +1,1001 @@
+sample,skin-color,hair-color,age-group,eye-color,gender,race,emotion
+1,Brown,Black,Old-aged Adults,Hazel,Male,Negroid,Happiness
+2,White,Blond,Middle-aged Adults,Brown,Female,Caucasian,Anger
+3,Black,Gray,Young Adults,Green,Male,Caucasian,Sadness
+4,Black,Gray,Middle-aged Adults,Hazel,Male,Asian,Surprise
+5,Brown,Blond,Middle-aged Adults,Brown,Female,Negroid,Anger
+6,Brown,Brown,Child,Brown,Male,Caucasian,Anger
+7,Black,Gray,Middle-aged Adults,Green,Female,Negroid,Happiness
+8,Brown,Brown,Young Adults,Brown,Male,Caucasian,Anger
+9,Black,Black,Child,Green,Female,Asian,Surprise
+10,White,Black,Young Adults,Blue,Female,Caucasian,Anger
+11,Brown,Black,Child,Hazel,Male,Caucasian,Happiness
+12,Black,Black,Old-aged Adults,Green,Female,Negroid,Happiness
+13,Black,Black,Young Adults,Green,Male,Asian,Surprise
+14,Black,Blond,Child,Brown,Male,Asian,Anger
+15,Brown,Gray,Middle-aged Adults,Blue,Female,Negroid,Happiness
+16,White,Blond,Young Adults,Green,Female,Negroid,Anger
+17,Brown,Brown,Child,Hazel,Female,Asian,Anger
+18,Black,Gray,Young Adults,Brown,Female,Caucasian,Surprise
+19,White,Blond,Middle-aged Adults,Brown,Female,Negroid,Anger
+20,Brown,Blond,Middle-aged Adults,Hazel,Female,Negroid,Sadness
+21,Brown,Gray,Old-aged Adults,Brown,Female,Caucasian,Anger
+22,Black,Gray,Child,Green,Male,Caucasian,Sadness
+23,Black,Gray,Child,Brown,Male,Negroid,Surprise
+24,Brown,Gray,Old-aged Adults,Brown,Female,Asian,Sadness
+25,White,Brown,Young Adults,Brown,Male,Caucasian,Surprise
+26,Brown,Blond,Young Adults,Brown,Female,Negroid,Sadness
+27,Brown,Brown,Middle-aged Adults,Green,Female,Negroid,Happiness
+28,Brown,Blond,Middle-aged Adults,Brown,Male,Asian,Sadness
+29,White,Gray,Middle-aged Adults,Blue,Male,Negroid,Anger
+30,White,Black,Young Adults,Hazel,Female,Caucasian,Sadness
+31,Brown,Black,Young Adults,Blue,Female,Negroid,Anger
+32,White,Gray,Young Adults,Hazel,Female,Caucasian,Sadness
+33,White,Gray,Old-aged Adults,Green,Male,Caucasian,Sadness
+34,Brown,Blond,Child,Green,Male,Negroid,Surprise
+35,Black,Black,Middle-aged Adults,Green,Female,Caucasian,Sadness
+36,Black,Black,Middle-aged Adults,Green,Female,Asian,Sadness
+37,Black,Black,Young Adults,Green,Male,Negroid,Sadness
+38,Brown,Gray,Child,Brown,Male,Negroid,Anger
+39,White,Black,Young Adults,Hazel,Male,Asian,Surprise
+40,White,Brown,Old-aged Adults,Brown,Male,Caucasian,Surprise
+41,Brown,Black,Young Adults,Green,Female,Asian,Sadness
+42,White,Black,Middle-aged Adults,Blue,Male,Asian,Happiness
+43,White,Blond,Old-aged Adults,Brown,Female,Asian,Anger
+44,White,Gray,Middle-aged Adults,Green,Male,Asian,Happiness
+45,White,Blond,Old-aged Adults,Green,Male,Asian,Anger
+46,White,Blond,Young Adults,Hazel,Female,Asian,Happiness
+47,Black,Gray,Old-aged Adults,Hazel,Male,Asian,Sadness
+48,Black,Black,Young Adults,Green,Male,Caucasian,Happiness
+49,Black,Blond,Child,Hazel,Male,Asian,Happiness
+50,Brown,Gray,Middle-aged Adults,Hazel,Male,Caucasian,Surprise
+51,Black,Brown,Middle-aged Adults,Green,Female,Caucasian,Happiness
+52,White,Black,Child,Blue,Male,Negroid,Happiness
+53,Black,Brown,Old-aged Adults,Brown,Male,Negroid,Sadness
+54,Black,Gray,Child,Green,Male,Negroid,Surprise
+55,Brown,Black,Young Adults,Blue,Female,Asian,Happiness
+56,Brown,Black,Old-aged Adults,Hazel,Female,Asian,Anger
+57,Brown,Gray,Old-aged Adults,Blue,Female,Negroid,Surprise
+58,Black,Black,Middle-aged Adults,Green,Female,Asian,Sadness
+59,White,Gray,Child,Blue,Male,Asian,Surprise
+60,Brown,Brown,Child,Blue,Female,Negroid,Surprise
+61,White,Brown,Child,Blue,Male,Negroid,Happiness
+62,Black,Blond,Young Adults,Blue,Male,Asian,Happiness
+63,Brown,Blond,Middle-aged Adults,Blue,Female,Negroid,Happiness
+64,Brown,Black,Child,Blue,Female,Caucasian,Surprise
+65,Brown,Gray,Child,Brown,Male,Asian,Anger
+66,White,Brown,Old-aged Adults,Green,Male,Caucasian,Surprise
+67,White,Black,Child,Blue,Female,Asian,Anger
+68,Black,Gray,Young Adults,Green,Male,Negroid,Happiness
+69,Black,Blond,Child,Brown,Male,Asian,Happiness
+70,White,Brown,Young Adults,Hazel,Female,Caucasian,Happiness
+71,White,Gray,Old-aged Adults,Blue,Male,Asian,Anger
+72,White,Black,Young Adults,Green,Male,Asian,Happiness
+73,Brown,Gray,Middle-aged Adults,Hazel,Female,Caucasian,Surprise
+74,White,Blond,Child,Blue,Male,Negroid,Anger
+75,White,Brown,Old-aged Adults,Brown,Female,Asian,Anger
+76,Brown,Gray,Child,Brown,Male,Asian,Surprise
+77,Black,Gray,Old-aged Adults,Green,Male,Negroid,Happiness
+78,Black,Gray,Middle-aged Adults,Brown,Female,Caucasian,Surprise
+79,Brown,Gray,Child,Green,Female,Caucasian,Happiness
+80,Black,Gray,Young Adults,Green,Male,Asian,Happiness
+81,Brown,Black,Old-aged Adults,Brown,Male,Negroid,Happiness
+82,Black,Brown,Middle-aged Adults,Green,Female,Asian,Happiness
+83,Black,Black,Old-aged Adults,Blue,Male,Caucasian,Happiness
+84,Black,Brown,Old-aged Adults,Hazel,Male,Negroid,Surprise
+85,White,Black,Child,Blue,Male,Asian,Happiness
+86,Brown,Black,Young Adults,Green,Female,Negroid,Surprise
+87,Black,Black,Young Adults,Blue,Female,Asian,Sadness
+88,White,Black,Young Adults,Hazel,Male,Caucasian,Anger
+89,White,Blond,Old-aged Adults,Hazel,Female,Asian,Sadness
+90,White,Gray,Young Adults,Hazel,Male,Asian,Surprise
+91,Black,Black,Middle-aged Adults,Green,Male,Caucasian,Sadness
+92,Black,Blond,Young Adults,Blue,Male,Negroid,Surprise
+93,White,Blond,Child,Hazel,Male,Negroid,Surprise
+94,Black,Black,Middle-aged Adults,Brown,Female,Negroid,Happiness
+95,Brown,Brown,Young Adults,Brown,Female,Caucasian,Happiness
+96,Black,Blond,Young Adults,Hazel,Female,Caucasian,Sadness
+97,Brown,Black,Young Adults,Hazel,Female,Negroid,Surprise
+98,White,Blond,Child,Brown,Female,Caucasian,Surprise
+99,Brown,Gray,Middle-aged Adults,Blue,Female,Negroid,Surprise
+100,White,Black,Child,Brown,Male,Asian,Surprise
+101,Black,Brown,Old-aged Adults,Hazel,Female,Negroid,Happiness
+102,White,Brown,Middle-aged Adults,Blue,Female,Negroid,Anger
+103,Brown,Blond,Middle-aged Adults,Brown,Male,Negroid,Surprise
+104,Black,Gray,Old-aged Adults,Brown,Female,Caucasian,Happiness
+105,White,Blond,Child,Brown,Female,Negroid,Surprise
+106,White,Gray,Young Adults,Hazel,Male,Asian,Anger
+107,Brown,Gray,Child,Blue,Male,Asian,Sadness
+108,Brown,Black,Old-aged Adults,Blue,Male,Asian,Happiness
+109,White,Gray,Old-aged Adults,Blue,Male,Negroid,Anger
+110,Brown,Brown,Young Adults,Brown,Female,Negroid,Sadness
+111,Black,Blond,Child,Green,Male,Caucasian,Happiness
+112,Black,Black,Middle-aged Adults,Hazel,Female,Caucasian,Happiness
+113,White,Black,Young Adults,Hazel,Male,Caucasian,Anger
+114,White,Black,Middle-aged Adults,Green,Male,Caucasian,Happiness
+115,White,Black,Old-aged Adults,Brown,Female,Negroid,Happiness
+116,White,Gray,Old-aged Adults,Hazel,Male,Negroid,Surprise
+117,Brown,Brown,Old-aged Adults,Hazel,Male,Caucasian,Happiness
+118,Black,Brown,Child,Hazel,Male,Caucasian,Surprise
+119,Black,Gray,Child,Brown,Male,Asian,Happiness
+120,Black,Brown,Young Adults,Hazel,Female,Caucasian,Surprise
+121,White,Brown,Middle-aged Adults,Hazel,Male,Negroid,Anger
+122,Brown,Black,Middle-aged Adults,Green,Female,Asian,Anger
+123,Black,Brown,Young Adults,Brown,Female,Negroid,Sadness
+124,White,Brown,Old-aged Adults,Brown,Female,Negroid,Sadness
+125,Black,Gray,Young Adults,Brown,Male,Caucasian,Anger
+126,White,Blond,Young Adults,Green,Female,Caucasian,Surprise
+127,Black,Gray,Old-aged Adults,Hazel,Female,Negroid,Sadness
+128,White,Blond,Child,Blue,Male,Negroid,Sadness
+129,Brown,Brown,Young Adults,Blue,Female,Caucasian,Surprise
+130,Black,Blond,Old-aged Adults,Hazel,Male,Asian,Happiness
+131,Brown,Blond,Middle-aged Adults,Brown,Female,Caucasian,Happiness
+132,Black,Black,Middle-aged Adults,Green,Female,Caucasian,Happiness
+133,Black,Black,Child,Green,Male,Caucasian,Happiness
+134,White,Brown,Middle-aged Adults,Hazel,Female,Asian,Sadness
+135,Black,Blond,Young Adults,Blue,Male,Caucasian,Happiness
+136,White,Black,Young Adults,Blue,Female,Asian,Happiness
+137,Black,Blond,Young Adults,Blue,Male,Negroid,Happiness
+138,Brown,Gray,Young Adults,Blue,Female,Caucasian,Surprise
+139,Black,Brown,Child,Blue,Female,Negroid,Anger
+140,White,Gray,Child,Brown,Female,Asian,Sadness
+141,White,Blond,Middle-aged Adults,Blue,Male,Caucasian,Anger
+142,Black,Brown,Old-aged Adults,Hazel,Female,Asian,Surprise
+143,Brown,Blond,Young Adults,Hazel,Female,Negroid,Surprise
+144,Black,Brown,Old-aged Adults,Blue,Male,Negroid,Sadness
+145,Black,Gray,Old-aged Adults,Blue,Male,Caucasian,Sadness
+146,Black,Black,Child,Brown,Male,Caucasian,Happiness
+147,White,Gray,Old-aged Adults,Green,Female,Caucasian,Surprise
+148,Brown,Brown,Child,Green,Male,Negroid,Happiness
+149,Black,Blond,Child,Brown,Female,Caucasian,Happiness
+150,Brown,Black,Child,Blue,Male,Caucasian,Happiness
+151,Black,Gray,Child,Brown,Female,Asian,Surprise
+152,Black,Brown,Middle-aged Adults,Green,Female,Asian,Happiness
+153,Black,Brown,Middle-aged Adults,Hazel,Male,Caucasian,Happiness
+154,Black,Black,Old-aged Adults,Hazel,Female,Asian,Happiness
+155,White,Blond,Old-aged Adults,Blue,Male,Caucasian,Sadness
+156,Black,Brown,Middle-aged Adults,Brown,Female,Asian,Anger
+157,Black,Blond,Middle-aged Adults,Blue,Male,Asian,Sadness
+158,Brown,Gray,Middle-aged Adults,Brown,Male,Asian,Sadness
+159,Black,Gray,Middle-aged Adults,Hazel,Female,Negroid,Surprise
+160,White,Brown,Child,Green,Male,Negroid,Happiness
+161,White,Black,Child,Brown,Male,Negroid,Sadness
+162,Brown,Black,Middle-aged Adults,Blue,Male,Negroid,Sadness
+163,White,Black,Child,Brown,Male,Asian,Anger
+164,White,Gray,Young Adults,Brown,Female,Negroid,Anger
+165,White,Gray,Old-aged Adults,Brown,Male,Asian,Anger
+166,Brown,Gray,Old-aged Adults,Blue,Male,Negroid,Surprise
+167,Brown,Black,Middle-aged Adults,Blue,Female,Caucasian,Sadness
+168,White,Black,Child,Green,Female,Negroid,Anger
+169,Brown,Brown,Child,Green,Female,Caucasian,Happiness
+170,Black,Gray,Old-aged Adults,Brown,Male,Negroid,Sadness
+171,White,Gray,Middle-aged Adults,Green,Male,Caucasian,Surprise
+172,Black,Blond,Middle-aged Adults,Green,Female,Caucasian,Anger
+173,White,Brown,Old-aged Adults,Brown,Male,Asian,Anger
+174,White,Black,Old-aged Adults,Green,Female,Asian,Sadness
+175,Black,Blond,Child,Blue,Male,Asian,Anger
+176,White,Brown,Young Adults,Brown,Male,Negroid,Happiness
+177,Black,Gray,Child,Brown,Female,Asian,Happiness
+178,Black,Brown,Young Adults,Blue,Male,Negroid,Sadness
+179,Black,Brown,Middle-aged Adults,Blue,Female,Asian,Sadness
+180,Black,Black,Child,Brown,Female,Asian,Anger
+181,Brown,Gray,Child,Green,Male,Negroid,Surprise
+182,Black,Blond,Middle-aged Adults,Hazel,Female,Caucasian,Sadness
+183,Black,Blond,Child,Blue,Male,Negroid,Surprise
+184,White,Gray,Child,Brown,Male,Asian,Anger
+185,Black,Brown,Child,Blue,Male,Asian,Anger
+186,Black,Brown,Young Adults,Hazel,Female,Asian,Happiness
+187,White,Brown,Old-aged Adults,Hazel,Female,Caucasian,Anger
+188,Black,Blond,Child,Green,Male,Asian,Sadness
+189,Brown,Gray,Child,Brown,Female,Asian,Surprise
+190,Black,Black,Child,Green,Male,Asian,Happiness
+191,White,Blond,Old-aged Adults,Blue,Male,Asian,Anger
+192,White,Gray,Child,Green,Male,Caucasian,Happiness
+193,Brown,Brown,Child,Green,Female,Negroid,Surprise
+194,Brown,Gray,Child,Brown,Male,Negroid,Sadness
+195,Black,Gray,Old-aged Adults,Hazel,Female,Asian,Anger
+196,Brown,Brown,Child,Blue,Male,Asian,Happiness
+197,Black,Black,Middle-aged Adults,Brown,Male,Negroid,Happiness
+198,Black,Gray,Child,Blue,Male,Negroid,Surprise
+199,White,Brown,Young Adults,Hazel,Male,Caucasian,Surprise
+200,White,Black,Middle-aged Adults,Hazel,Male,Caucasian,Happiness
+201,Brown,Gray,Old-aged Adults,Hazel,Female,Caucasian,Surprise
+202,Brown,Blond,Child,Hazel,Male,Negroid,Surprise
+203,Black,Blond,Child,Brown,Female,Caucasian,Sadness
+204,White,Black,Child,Green,Female,Negroid,Sadness
+205,Brown,Brown,Middle-aged Adults,Hazel,Male,Caucasian,Happiness
+206,White,Gray,Middle-aged Adults,Brown,Male,Caucasian,Anger
+207,Black,Blond,Middle-aged Adults,Hazel,Female,Asian,Anger
+208,White,Brown,Old-aged Adults,Brown,Male,Asian,Sadness
+209,Brown,Black,Child,Brown,Male,Asian,Anger
+210,Brown,Blond,Middle-aged Adults,Hazel,Male,Caucasian,Surprise
+211,Black,Gray,Old-aged Adults,Brown,Female,Caucasian,Anger
+212,Brown,Gray,Old-aged Adults,Blue,Female,Asian,Anger
+213,Brown,Brown,Child,Brown,Male,Asian,Anger
+214,Black,Black,Old-aged Adults,Green,Male,Caucasian,Sadness
+215,Black,Black,Middle-aged Adults,Green,Female,Asian,Sadness
+216,White,Blond,Child,Brown,Female,Asian,Surprise
+217,White,Brown,Old-aged Adults,Hazel,Female,Negroid,Sadness
+218,White,Blond,Child,Blue,Male,Asian,Anger
+219,White,Gray,Child,Hazel,Female,Asian,Anger
+220,Brown,Black,Child,Green,Female,Negroid,Anger
+221,Black,Blond,Young Adults,Brown,Male,Asian,Sadness
+222,White,Gray,Young Adults,Hazel,Male,Asian,Surprise
+223,White,Black,Middle-aged Adults,Brown,Female,Negroid,Anger
+224,Brown,Blond,Middle-aged Adults,Green,Male,Negroid,Sadness
+225,White,Gray,Old-aged Adults,Brown,Female,Caucasian,Surprise
+226,Brown,Blond,Child,Blue,Male,Negroid,Sadness
+227,White,Blond,Child,Blue,Male,Negroid,Surprise
+228,Brown,Gray,Old-aged Adults,Blue,Male,Caucasian,Sadness
+229,White,Gray,Child,Brown,Male,Asian,Happiness
+230,Black,Black,Old-aged Adults,Green,Male,Asian,Surprise
+231,Brown,Black,Child,Brown,Male,Negroid,Surprise
+232,White,Blond,Old-aged Adults,Green,Male,Asian,Surprise
+233,White,Gray,Middle-aged Adults,Blue,Female,Asian,Sadness
+234,Brown,Brown,Child,Hazel,Female,Asian,Anger
+235,White,Blond,Old-aged Adults,Blue,Male,Negroid,Happiness
+236,Brown,Brown,Young Adults,Blue,Female,Caucasian,Sadness
+237,Brown,Blond,Middle-aged Adults,Brown,Female,Caucasian,Anger
+238,Brown,Gray,Young Adults,Blue,Female,Negroid,Anger
+239,Black,Blond,Young Adults,Hazel,Female,Asian,Sadness
+240,Black,Brown,Young Adults,Green,Female,Asian,Anger
+241,Brown,Brown,Middle-aged Adults,Green,Male,Caucasian,Surprise
+242,Black,Gray,Child,Brown,Male,Negroid,Surprise
+243,Brown,Blond,Young Adults,Hazel,Male,Asian,Sadness
+244,White,Blond,Young Adults,Brown,Female,Caucasian,Happiness
+245,Brown,Gray,Child,Green,Male,Negroid,Happiness
+246,Brown,Brown,Young Adults,Brown,Female,Negroid,Happiness
+247,Brown,Brown,Child,Blue,Male,Negroid,Surprise
+248,Brown,Gray,Young Adults,Brown,Female,Negroid,Anger
+249,Brown,Blond,Young Adults,Hazel,Male,Caucasian,Anger
+250,White,Gray,Middle-aged Adults,Brown,Male,Negroid,Anger
+251,Black,Gray,Middle-aged Adults,Hazel,Female,Caucasian,Happiness
+252,Black,Black,Child,Brown,Female,Negroid,Anger
+253,White,Gray,Young Adults,Brown,Female,Caucasian,Surprise
+254,White,Brown,Middle-aged Adults,Hazel,Female,Caucasian,Anger
+255,Black,Blond,Young Adults,Hazel,Female,Negroid,Happiness
+256,Black,Black,Middle-aged Adults,Green,Female,Negroid,Surprise
+257,Black,Black,Middle-aged Adults,Blue,Female,Caucasian,Happiness
+258,Black,Blond,Middle-aged Adults,Green,Male,Caucasian,Sadness
+259,Brown,Brown,Young Adults,Brown,Male,Caucasian,Happiness
+260,Black,Gray,Young Adults,Green,Male,Asian,Anger
+261,Brown,Brown,Young Adults,Brown,Male,Negroid,Sadness
+262,White,Black,Middle-aged Adults,Brown,Female,Caucasian,Surprise
+263,White,Blond,Middle-aged Adults,Green,Male,Caucasian,Sadness
+264,Brown,Brown,Young Adults,Green,Female,Caucasian,Surprise
+265,Black,Blond,Young Adults,Hazel,Male,Negroid,Sadness
+266,Brown,Brown,Young Adults,Brown,Female,Negroid,Surprise
+267,Black,Brown,Young Adults,Green,Female,Negroid,Sadness
+268,White,Blond,Child,Blue,Male,Asian,Surprise
+269,Black,Gray,Young Adults,Green,Female,Caucasian,Anger
+270,Black,Gray,Old-aged Adults,Green,Male,Caucasian,Sadness
+271,Brown,Brown,Middle-aged Adults,Brown,Male,Negroid,Surprise
+272,Brown,Gray,Child,Blue,Female,Caucasian,Anger
+273,Brown,Gray,Child,Blue,Female,Negroid,Sadness
+274,White,Brown,Middle-aged Adults,Blue,Female,Asian,Sadness
+275,Brown,Black,Young Adults,Hazel,Male,Caucasian,Surprise
+276,White,Gray,Middle-aged Adults,Blue,Female,Asian,Anger
+277,White,Brown,Young Adults,Brown,Male,Asian,Happiness
+278,Brown,Black,Old-aged Adults,Hazel,Female,Asian,Sadness
+279,White,Gray,Young Adults,Green,Male,Negroid,Anger
+280,Black,Brown,Old-aged Adults,Hazel,Female,Caucasian,Anger
+281,White,Gray,Middle-aged Adults,Green,Male,Negroid,Sadness
+282,Brown,Brown,Old-aged Adults,Hazel,Female,Caucasian,Happiness
+283,Black,Brown,Child,Green,Male,Caucasian,Surprise
+284,Brown,Black,Child,Brown,Female,Negroid,Sadness
+285,White,Brown,Young Adults,Green,Male,Asian,Sadness
+286,White,Brown,Old-aged Adults,Blue,Female,Caucasian,Happiness
+287,Brown,Black,Middle-aged Adults,Hazel,Female,Negroid,Happiness
+288,White,Gray,Old-aged Adults,Brown,Female,Asian,Anger
+289,White,Black,Middle-aged Adults,Hazel,Female,Asian,Surprise
+290,Black,Brown,Middle-aged Adults,Brown,Female,Asian,Sadness
+291,White,Gray,Young Adults,Brown,Female,Asian,Sadness
+292,Black,Black,Young Adults,Brown,Male,Caucasian,Anger
+293,Black,Gray,Old-aged Adults,Green,Female,Negroid,Sadness
+294,Brown,Brown,Child,Blue,Female,Caucasian,Surprise
+295,White,Brown,Child,Hazel,Male,Asian,Happiness
+296,Black,Black,Middle-aged Adults,Brown,Female,Negroid,Sadness
+297,Black,Gray,Young Adults,Hazel,Female,Caucasian,Sadness
+298,Brown,Blond,Young Adults,Hazel,Female,Asian,Anger
+299,Black,Gray,Old-aged Adults,Green,Male,Asian,Surprise
+300,Brown,Brown,Child,Hazel,Female,Asian,Happiness
+301,White,Black,Middle-aged Adults,Hazel,Female,Asian,Anger
+302,White,Gray,Old-aged Adults,Blue,Female,Negroid,Happiness
+303,White,Brown,Old-aged Adults,Green,Male,Asian,Surprise
+304,Black,Brown,Young Adults,Green,Female,Negroid,Happiness
+305,White,Black,Young Adults,Hazel,Male,Caucasian,Surprise
+306,Brown,Black,Old-aged Adults,Brown,Male,Asian,Happiness
+307,Brown,Gray,Old-aged Adults,Green,Male,Caucasian,Sadness
+308,Black,Black,Old-aged Adults,Brown,Male,Caucasian,Anger
+309,White,Brown,Middle-aged Adults,Blue,Female,Caucasian,Surprise
+310,White,Brown,Child,Blue,Male,Negroid,Surprise
+311,Brown,Blond,Young Adults,Green,Female,Asian,Happiness
+312,Black,Gray,Young Adults,Brown,Male,Asian,Happiness
+313,White,Black,Young Adults,Blue,Male,Caucasian,Surprise
+314,White,Blond,Child,Blue,Male,Negroid,Happiness
+315,Black,Gray,Child,Blue,Male,Asian,Anger
+316,Brown,Gray,Middle-aged Adults,Hazel,Female,Negroid,Surprise
+317,Black,Blond,Child,Hazel,Female,Caucasian,Sadness
+318,Black,Gray,Young Adults,Hazel,Male,Negroid,Surprise
+319,Black,Brown,Child,Hazel,Female,Caucasian,Surprise
+320,White,Gray,Old-aged Adults,Brown,Female,Negroid,Anger
+321,White,Gray,Child,Blue,Male,Asian,Happiness
+322,Brown,Brown,Old-aged Adults,Hazel,Male,Caucasian,Surprise
+323,Black,Gray,Middle-aged Adults,Brown,Male,Caucasian,Surprise
+324,Brown,Blond,Old-aged Adults,Hazel,Male,Negroid,Anger
+325,White,Gray,Old-aged Adults,Blue,Female,Negroid,Happiness
+326,Brown,Blond,Child,Green,Male,Negroid,Surprise
+327,Brown,Black,Child,Green,Male,Negroid,Surprise
+328,Black,Black,Middle-aged Adults,Brown,Male,Caucasian,Sadness
+329,Black,Black,Middle-aged Adults,Blue,Male,Asian,Anger
+330,Black,Blond,Middle-aged Adults,Brown,Male,Negroid,Anger
+331,White,Gray,Child,Brown,Male,Asian,Anger
+332,Black,Brown,Young Adults,Blue,Female,Caucasian,Happiness
+333,White,Black,Child,Green,Female,Caucasian,Anger
+334,Brown,Black,Child,Blue,Male,Caucasian,Surprise
+335,Black,Gray,Middle-aged Adults,Blue,Male,Asian,Sadness
+336,Black,Blond,Young Adults,Green,Male,Negroid,Anger
+337,White,Brown,Young Adults,Blue,Female,Negroid,Surprise
+338,White,Brown,Young Adults,Hazel,Male,Negroid,Surprise
+339,White,Gray,Middle-aged Adults,Brown,Female,Negroid,Surprise
+340,Brown,Blond,Young Adults,Blue,Male,Asian,Surprise
+341,Brown,Black,Middle-aged Adults,Green,Female,Asian,Sadness
+342,Brown,Blond,Child,Hazel,Male,Negroid,Sadness
+343,Black,Gray,Middle-aged Adults,Hazel,Male,Caucasian,Surprise
+344,Brown,Blond,Middle-aged Adults,Green,Male,Caucasian,Sadness
+345,Brown,Black,Old-aged Adults,Hazel,Male,Negroid,Happiness
+346,Brown,Gray,Middle-aged Adults,Hazel,Female,Negroid,Sadness
+347,White,Blond,Middle-aged Adults,Green,Female,Caucasian,Sadness
+348,White,Black,Middle-aged Adults,Blue,Male,Caucasian,Happiness
+349,White,Brown,Middle-aged Adults,Brown,Male,Asian,Surprise
+350,Brown,Brown,Middle-aged Adults,Brown,Female,Caucasian,Surprise
+351,White,Brown,Middle-aged Adults,Blue,Male,Caucasian,Anger
+352,Black,Black,Young Adults,Green,Female,Asian,Surprise
+353,Brown,Blond,Child,Green,Female,Negroid,Sadness
+354,White,Gray,Middle-aged Adults,Blue,Male,Caucasian,Surprise
+355,Brown,Brown,Middle-aged Adults,Green,Female,Asian,Happiness
+356,White,Brown,Middle-aged Adults,Brown,Female,Asian,Anger
+357,Brown,Black,Middle-aged Adults,Blue,Female,Negroid,Surprise
+358,Black,Black,Old-aged Adults,Hazel,Male,Caucasian,Anger
+359,Black,Gray,Middle-aged Adults,Hazel,Male,Caucasian,Happiness
+360,Brown,Brown,Child,Brown,Male,Asian,Sadness
+361,Black,Blond,Old-aged Adults,Hazel,Female,Negroid,Anger
+362,Black,Gray,Child,Brown,Male,Caucasian,Happiness
+363,White,Black,Child,Brown,Female,Caucasian,Anger
+364,Black,Black,Young Adults,Brown,Male,Caucasian,Surprise
+365,White,Blond,Young Adults,Hazel,Male,Asian,Surprise
+366,White,Blond,Young Adults,Blue,Female,Negroid,Sadness
+367,White,Black,Middle-aged Adults,Hazel,Male,Negroid,Sadness
+368,White,Brown,Middle-aged Adults,Brown,Male,Asian,Sadness
+369,Brown,Brown,Child,Brown,Female,Negroid,Sadness
+370,White,Brown,Middle-aged Adults,Green,Female,Asian,Happiness
+371,White,Brown,Middle-aged Adults,Brown,Male,Asian,Happiness
+372,Black,Black,Old-aged Adults,Brown,Female,Negroid,Sadness
+373,Black,Gray,Middle-aged Adults,Blue,Female,Asian,Surprise
+374,Black,Gray,Middle-aged Adults,Blue,Female,Caucasian,Happiness
+375,Brown,Brown,Old-aged Adults,Brown,Female,Asian,Anger
+376,Brown,Brown,Young Adults,Brown,Female,Asian,Anger
+377,Brown,Brown,Old-aged Adults,Brown,Female,Caucasian,Sadness
+378,Brown,Brown,Young Adults,Hazel,Female,Negroid,Sadness
+379,Brown,Black,Young Adults,Brown,Male,Asian,Surprise
+380,Black,Gray,Young Adults,Blue,Male,Asian,Anger
+381,White,Brown,Old-aged Adults,Blue,Male,Asian,Anger
+382,Brown,Gray,Child,Blue,Male,Asian,Surprise
+383,Black,Blond,Old-aged Adults,Blue,Male,Caucasian,Surprise
+384,Black,Brown,Old-aged Adults,Brown,Male,Caucasian,Happiness
+385,Black,Gray,Old-aged Adults,Blue,Male,Asian,Sadness
+386,White,Black,Young Adults,Hazel,Male,Asian,Happiness
+387,White,Gray,Middle-aged Adults,Brown,Male,Asian,Surprise
+388,Black,Blond,Child,Hazel,Female,Negroid,Anger
+389,Brown,Blond,Young Adults,Brown,Female,Negroid,Happiness
+390,Brown,Blond,Young Adults,Hazel,Female,Negroid,Anger
+391,White,Gray,Child,Hazel,Female,Negroid,Sadness
+392,Brown,Gray,Old-aged Adults,Green,Female,Asian,Anger
+393,Brown,Blond,Child,Green,Female,Asian,Surprise
+394,Black,Blond,Old-aged Adults,Hazel,Female,Asian,Anger
+395,Brown,Brown,Child,Hazel,Male,Asian,Surprise
+396,White,Black,Young Adults,Hazel,Female,Negroid,Anger
+397,White,Blond,Child,Green,Female,Negroid,Surprise
+398,Black,Blond,Child,Hazel,Male,Caucasian,Anger
+399,White,Gray,Young Adults,Green,Male,Negroid,Anger
+400,Black,Black,Middle-aged Adults,Green,Female,Caucasian,Happiness
+401,White,Brown,Middle-aged Adults,Hazel,Female,Caucasian,Surprise
+402,Brown,Black,Middle-aged Adults,Green,Female,Negroid,Sadness
+403,Black,Black,Child,Brown,Female,Negroid,Anger
+404,Brown,Gray,Young Adults,Blue,Female,Negroid,Happiness
+405,Black,Black,Young Adults,Blue,Female,Caucasian,Surprise
+406,Brown,Gray,Old-aged Adults,Blue,Male,Caucasian,Sadness
+407,White,Blond,Young Adults,Green,Female,Negroid,Happiness
+408,Brown,Brown,Middle-aged Adults,Brown,Female,Caucasian,Sadness
+409,Black,Black,Child,Hazel,Male,Caucasian,Happiness
+410,Brown,Brown,Old-aged Adults,Green,Female,Asian,Anger
+411,White,Blond,Child,Brown,Male,Negroid,Surprise
+412,Black,Gray,Child,Green,Female,Negroid,Anger
+413,Black,Brown,Middle-aged Adults,Brown,Male,Asian,Surprise
+414,White,Blond,Old-aged Adults,Hazel,Male,Asian,Anger
+415,Black,Gray,Old-aged Adults,Green,Female,Asian,Surprise
+416,Black,Blond,Middle-aged Adults,Green,Female,Negroid,Surprise
+417,Brown,Black,Middle-aged Adults,Hazel,Female,Negroid,Happiness
+418,White,Black,Middle-aged Adults,Green,Male,Caucasian,Surprise
+419,Brown,Black,Middle-aged Adults,Blue,Male,Negroid,Sadness
+420,White,Blond,Child,Hazel,Male,Asian,Happiness
+421,Black,Blond,Child,Brown,Male,Caucasian,Anger
+422,Brown,Blond,Middle-aged Adults,Blue,Male,Asian,Anger
+423,White,Gray,Middle-aged Adults,Hazel,Male,Caucasian,Happiness
+424,Black,Blond,Middle-aged Adults,Blue,Female,Asian,Happiness
+425,White,Brown,Young Adults,Hazel,Female,Caucasian,Sadness
+426,White,Blond,Old-aged Adults,Blue,Male,Negroid,Happiness
+427,Black,Black,Middle-aged Adults,Brown,Male,Negroid,Anger
+428,Black,Gray,Child,Blue,Male,Negroid,Sadness
+429,Brown,Brown,Middle-aged Adults,Green,Male,Caucasian,Happiness
+430,Black,Gray,Old-aged Adults,Blue,Male,Asian,Surprise
+431,Black,Gray,Young Adults,Blue,Female,Caucasian,Happiness
+432,Black,Gray,Middle-aged Adults,Green,Male,Negroid,Sadness
+433,Brown,Black,Middle-aged Adults,Blue,Female,Asian,Happiness
+434,Brown,Gray,Young Adults,Brown,Female,Asian,Happiness
+435,Black,Black,Young Adults,Blue,Female,Asian,Surprise
+436,White,Brown,Middle-aged Adults,Brown,Female,Negroid,Sadness
+437,White,Gray,Middle-aged Adults,Blue,Male,Asian,Happiness
+438,Black,Gray,Young Adults,Brown,Female,Caucasian,Anger
+439,Black,Blond,Child,Brown,Male,Asian,Surprise
+440,Brown,Black,Middle-aged Adults,Blue,Male,Caucasian,Happiness
+441,White,Blond,Middle-aged Adults,Hazel,Male,Asian,Surprise
+442,Brown,Brown,Old-aged Adults,Brown,Male,Asian,Happiness
+443,White,Brown,Young Adults,Hazel,Female,Caucasian,Sadness
+444,White,Blond,Child,Green,Female,Negroid,Sadness
+445,Black,Brown,Young Adults,Brown,Male,Negroid,Sadness
+446,White,Blond,Young Adults,Blue,Male,Caucasian,Sadness
+447,White,Blond,Child,Green,Female,Caucasian,Sadness
+448,Brown,Gray,Old-aged Adults,Green,Male,Caucasian,Happiness
+449,Black,Blond,Young Adults,Green,Female,Asian,Surprise
+450,Black,Gray,Child,Green,Male,Caucasian,Anger
+451,White,Blond,Old-aged Adults,Brown,Male,Negroid,Sadness
+452,Black,Brown,Middle-aged Adults,Brown,Male,Negroid,Surprise
+453,Brown,Brown,Young Adults,Green,Female,Negroid,Sadness
+454,White,Gray,Middle-aged Adults,Blue,Male,Negroid,Surprise
+455,Black,Brown,Old-aged Adults,Hazel,Male,Negroid,Sadness
+456,Brown,Brown,Young Adults,Blue,Male,Asian,Anger
+457,Brown,Black,Young Adults,Hazel,Male,Asian,Sadness
+458,Brown,Blond,Child,Brown,Female,Caucasian,Sadness
+459,Black,Brown,Middle-aged Adults,Green,Male,Negroid,Happiness
+460,White,Black,Middle-aged Adults,Green,Male,Caucasian,Happiness
+461,White,Gray,Old-aged Adults,Green,Female,Negroid,Surprise
+462,White,Gray,Middle-aged Adults,Brown,Male,Asian,Happiness
+463,Black,Black,Child,Blue,Female,Caucasian,Happiness
+464,Brown,Blond,Middle-aged Adults,Green,Male,Caucasian,Surprise
+465,White,Brown,Old-aged Adults,Green,Male,Caucasian,Happiness
+466,Black,Gray,Middle-aged Adults,Green,Male,Caucasian,Happiness
+467,White,Gray,Old-aged Adults,Green,Male,Asian,Happiness
+468,Brown,Brown,Middle-aged Adults,Hazel,Female,Asian,Happiness
+469,White,Black,Young Adults,Hazel,Female,Caucasian,Anger
+470,White,Black,Old-aged Adults,Blue,Male,Asian,Surprise
+471,White,Blond,Middle-aged Adults,Green,Female,Asian,Surprise
+472,Black,Blond,Child,Brown,Female,Asian,Sadness
+473,Black,Black,Child,Green,Male,Asian,Happiness
+474,Black,Brown,Old-aged Adults,Brown,Female,Asian,Surprise
+475,Black,Blond,Old-aged Adults,Hazel,Male,Caucasian,Anger
+476,Brown,Gray,Old-aged Adults,Hazel,Male,Negroid,Happiness
+477,Brown,Blond,Child,Green,Female,Caucasian,Surprise
+478,Black,Gray,Child,Hazel,Female,Caucasian,Happiness
+479,White,Black,Middle-aged Adults,Blue,Female,Negroid,Surprise
+480,White,Brown,Child,Blue,Male,Caucasian,Anger
+481,Black,Brown,Young Adults,Blue,Female,Asian,Sadness
+482,Brown,Black,Old-aged Adults,Brown,Male,Negroid,Sadness
+483,Black,Brown,Child,Brown,Male,Negroid,Happiness
+484,Brown,Brown,Child,Brown,Female,Caucasian,Anger
+485,Brown,Gray,Child,Hazel,Male,Caucasian,Surprise
+486,Brown,Gray,Child,Blue,Male,Negroid,Sadness
+487,White,Black,Young Adults,Green,Male,Caucasian,Anger
+488,Black,Black,Middle-aged Adults,Blue,Male,Negroid,Surprise
+489,White,Blond,Middle-aged Adults,Green,Female,Negroid,Surprise
+490,Black,Blond,Old-aged Adults,Brown,Female,Asian,Sadness
+491,Brown,Gray,Child,Brown,Female,Negroid,Happiness
+492,White,Black,Child,Blue,Female,Negroid,Surprise
+493,Brown,Black,Middle-aged Adults,Blue,Female,Negroid,Happiness
+494,Brown,Gray,Child,Hazel,Male,Asian,Sadness
+495,Black,Black,Young Adults,Blue,Male,Negroid,Anger
+496,Black,Black,Old-aged Adults,Green,Female,Asian,Surprise
+497,Brown,Blond,Old-aged Adults,Hazel,Male,Negroid,Happiness
+498,Brown,Black,Young Adults,Brown,Male,Caucasian,Anger
+499,Black,Gray,Child,Hazel,Female,Negroid,Surprise
+500,Black,Blond,Child,Blue,Male,Negroid,Anger
+501,White,Gray,Old-aged Adults,Hazel,Male,Asian,Happiness
+502,Black,Blond,Young Adults,Green,Male,Negroid,Surprise
+503,White,Blond,Old-aged Adults,Brown,Male,Negroid,Anger
+504,Brown,Gray,Young Adults,Blue,Female,Caucasian,Anger
+505,White,Blond,Child,Brown,Female,Negroid,Happiness
+506,Brown,Blond,Child,Blue,Male,Caucasian,Happiness
+507,Brown,Gray,Middle-aged Adults,Brown,Male,Negroid,Sadness
+508,Black,Black,Child,Blue,Male,Negroid,Surprise
+509,Brown,Blond,Young Adults,Hazel,Male,Negroid,Sadness
+510,Brown,Black,Middle-aged Adults,Blue,Female,Asian,Anger
+511,Black,Blond,Middle-aged Adults,Green,Male,Caucasian,Happiness
+512,Brown,Black,Child,Green,Female,Negroid,Surprise
+513,Brown,Gray,Old-aged Adults,Brown,Male,Caucasian,Happiness
+514,White,Brown,Old-aged Adults,Brown,Female,Negroid,Surprise
+515,Black,Gray,Old-aged Adults,Hazel,Male,Negroid,Happiness
+516,White,Gray,Young Adults,Green,Female,Asian,Happiness
+517,White,Brown,Young Adults,Brown,Female,Caucasian,Sadness
+518,Brown,Blond,Old-aged Adults,Hazel,Female,Asian,Sadness
+519,White,Brown,Child,Brown,Male,Asian,Happiness
+520,Black,Gray,Young Adults,Blue,Female,Caucasian,Anger
+521,Brown,Brown,Old-aged Adults,Blue,Female,Caucasian,Surprise
+522,Black,Brown,Child,Hazel,Male,Negroid,Anger
+523,White,Black,Old-aged Adults,Blue,Male,Asian,Happiness
+524,White,Black,Young Adults,Brown,Male,Caucasian,Surprise
+525,Brown,Blond,Old-aged Adults,Green,Male,Negroid,Happiness
+526,White,Gray,Old-aged Adults,Blue,Female,Asian,Happiness
+527,White,Gray,Middle-aged Adults,Green,Male,Negroid,Sadness
+528,White,Blond,Young Adults,Green,Female,Negroid,Sadness
+529,Black,Gray,Child,Green,Male,Asian,Happiness
+530,Black,Black,Old-aged Adults,Hazel,Female,Caucasian,Sadness
+531,Brown,Brown,Young Adults,Brown,Female,Asian,Surprise
+532,White,Brown,Child,Hazel,Female,Caucasian,Sadness
+533,Black,Black,Old-aged Adults,Brown,Male,Negroid,Anger
+534,White,Blond,Young Adults,Green,Male,Caucasian,Sadness
+535,White,Blond,Young Adults,Green,Male,Negroid,Surprise
+536,Black,Blond,Young Adults,Green,Female,Asian,Sadness
+537,White,Gray,Middle-aged Adults,Blue,Female,Negroid,Sadness
+538,Black,Black,Young Adults,Green,Female,Caucasian,Anger
+539,Black,Black,Middle-aged Adults,Hazel,Female,Asian,Anger
+540,Brown,Black,Child,Blue,Female,Asian,Happiness
+541,Black,Blond,Middle-aged Adults,Green,Female,Negroid,Sadness
+542,Brown,Black,Child,Hazel,Male,Caucasian,Happiness
+543,Brown,Black,Young Adults,Brown,Male,Caucasian,Surprise
+544,Black,Black,Middle-aged Adults,Brown,Male,Asian,Sadness
+545,Brown,Black,Old-aged Adults,Hazel,Male,Asian,Anger
+546,Brown,Blond,Middle-aged Adults,Green,Male,Negroid,Sadness
+547,Black,Black,Middle-aged Adults,Brown,Female,Negroid,Surprise
+548,Black,Brown,Young Adults,Green,Male,Negroid,Surprise
+549,White,Black,Young Adults,Brown,Female,Negroid,Surprise
+550,White,Blond,Middle-aged Adults,Hazel,Female,Asian,Sadness
+551,Brown,Brown,Old-aged Adults,Brown,Female,Negroid,Surprise
+552,White,Blond,Child,Green,Female,Asian,Sadness
+553,White,Blond,Child,Green,Female,Negroid,Sadness
+554,Brown,Blond,Middle-aged Adults,Hazel,Male,Negroid,Surprise
+555,Brown,Gray,Young Adults,Hazel,Male,Negroid,Sadness
+556,White,Brown,Old-aged Adults,Blue,Female,Negroid,Happiness
+557,Brown,Blond,Child,Green,Male,Asian,Anger
+558,White,Brown,Old-aged Adults,Hazel,Female,Caucasian,Happiness
+559,Black,Blond,Young Adults,Green,Female,Caucasian,Sadness
+560,White,Black,Young Adults,Hazel,Female,Negroid,Surprise
+561,Black,Blond,Young Adults,Green,Male,Asian,Anger
+562,White,Blond,Old-aged Adults,Brown,Female,Asian,Sadness
+563,White,Black,Old-aged Adults,Green,Male,Negroid,Surprise
+564,Black,Gray,Old-aged Adults,Blue,Female,Negroid,Surprise
+565,Black,Brown,Child,Green,Male,Caucasian,Surprise
+566,White,Black,Child,Hazel,Female,Caucasian,Anger
+567,White,Brown,Middle-aged Adults,Green,Female,Caucasian,Sadness
+568,Black,Gray,Old-aged Adults,Hazel,Female,Negroid,Happiness
+569,White,Blond,Old-aged Adults,Green,Female,Negroid,Happiness
+570,White,Blond,Child,Blue,Male,Asian,Anger
+571,White,Gray,Middle-aged Adults,Blue,Female,Negroid,Sadness
+572,Brown,Gray,Middle-aged Adults,Blue,Female,Asian,Anger
+573,White,Blond,Middle-aged Adults,Brown,Male,Asian,Anger
+574,Black,Black,Child,Hazel,Female,Asian,Sadness
+575,Black,Gray,Young Adults,Green,Male,Negroid,Happiness
+576,Black,Blond,Child,Brown,Male,Negroid,Sadness
+577,White,Brown,Child,Green,Male,Asian,Surprise
+578,White,Blond,Old-aged Adults,Green,Male,Negroid,Sadness
+579,Black,Brown,Middle-aged Adults,Hazel,Female,Caucasian,Happiness
+580,Black,Blond,Middle-aged Adults,Blue,Female,Negroid,Surprise
+581,White,Brown,Old-aged Adults,Green,Female,Negroid,Happiness
+582,Brown,Blond,Middle-aged Adults,Green,Male,Negroid,Happiness
+583,Black,Gray,Old-aged Adults,Brown,Male,Negroid,Sadness
+584,Brown,Gray,Middle-aged Adults,Blue,Male,Asian,Sadness
+585,Brown,Brown,Old-aged Adults,Brown,Female,Caucasian,Sadness
+586,Black,Blond,Child,Hazel,Male,Asian,Surprise
+587,Brown,Brown,Middle-aged Adults,Brown,Male,Asian,Anger
+588,Brown,Gray,Child,Brown,Male,Negroid,Anger
+589,Brown,Gray,Child,Hazel,Male,Asian,Surprise
+590,White,Black,Old-aged Adults,Hazel,Male,Asian,Sadness
+591,Brown,Blond,Child,Blue,Male,Caucasian,Sadness
+592,White,Gray,Child,Green,Male,Asian,Anger
+593,Black,Brown,Young Adults,Green,Female,Caucasian,Anger
+594,Brown,Blond,Old-aged Adults,Blue,Female,Negroid,Surprise
+595,White,Gray,Old-aged Adults,Green,Female,Negroid,Happiness
+596,Black,Black,Middle-aged Adults,Hazel,Female,Caucasian,Surprise
+597,White,Gray,Old-aged Adults,Brown,Male,Asian,Happiness
+598,Black,Gray,Child,Hazel,Female,Asian,Surprise
+599,Brown,Black,Child,Blue,Female,Asian,Sadness
+600,Brown,Blond,Old-aged Adults,Blue,Female,Asian,Sadness
+601,Brown,Gray,Child,Brown,Male,Caucasian,Happiness
+602,Brown,Gray,Young Adults,Brown,Female,Negroid,Sadness
+603,Brown,Gray,Middle-aged Adults,Hazel,Male,Negroid,Sadness
+604,Black,Brown,Middle-aged Adults,Green,Female,Negroid,Happiness
+605,White,Blond,Middle-aged Adults,Brown,Male,Asian,Anger
+606,Black,Blond,Young Adults,Blue,Male,Caucasian,Sadness
+607,Black,Black,Middle-aged Adults,Hazel,Male,Caucasian,Sadness
+608,White,Gray,Middle-aged Adults,Hazel,Male,Caucasian,Surprise
+609,Black,Black,Young Adults,Green,Female,Caucasian,Anger
+610,Black,Brown,Young Adults,Hazel,Male,Negroid,Happiness
+611,White,Brown,Young Adults,Brown,Male,Negroid,Happiness
+612,Black,Gray,Middle-aged Adults,Hazel,Male,Asian,Surprise
+613,White,Gray,Middle-aged Adults,Blue,Male,Caucasian,Sadness
+614,Black,Gray,Young Adults,Hazel,Male,Negroid,Happiness
+615,Black,Brown,Middle-aged Adults,Hazel,Female,Caucasian,Sadness
+616,Brown,Gray,Child,Hazel,Male,Caucasian,Happiness
+617,Brown,Brown,Middle-aged Adults,Green,Female,Asian,Happiness
+618,Brown,Gray,Old-aged Adults,Brown,Male,Caucasian,Surprise
+619,Black,Gray,Young Adults,Hazel,Female,Caucasian,Sadness
+620,Black,Black,Old-aged Adults,Green,Male,Asian,Sadness
+621,White,Brown,Young Adults,Hazel,Male,Caucasian,Happiness
+622,Brown,Gray,Young Adults,Brown,Male,Asian,Anger
+623,Black,Blond,Old-aged Adults,Blue,Male,Negroid,Surprise
+624,Black,Black,Child,Green,Female,Asian,Happiness
+625,Brown,Blond,Child,Hazel,Female,Caucasian,Sadness
+626,Black,Black,Old-aged Adults,Hazel,Female,Asian,Surprise
+627,Black,Blond,Middle-aged Adults,Hazel,Female,Asian,Happiness
+628,Black,Blond,Middle-aged Adults,Hazel,Male,Caucasian,Happiness
+629,Black,Blond,Young Adults,Brown,Male,Caucasian,Happiness
+630,White,Black,Child,Brown,Female,Asian,Sadness
+631,Black,Brown,Child,Blue,Female,Asian,Happiness
+632,Black,Black,Old-aged Adults,Hazel,Male,Asian,Happiness
+633,Brown,Gray,Child,Green,Male,Caucasian,Surprise
+634,White,Gray,Child,Green,Female,Caucasian,Happiness
+635,Black,Black,Middle-aged Adults,Hazel,Male,Caucasian,Anger
+636,Black,Black,Middle-aged Adults,Brown,Male,Caucasian,Surprise
+637,Black,Brown,Middle-aged Adults,Brown,Female,Negroid,Anger
+638,White,Black,Child,Green,Male,Negroid,Surprise
+639,White,Brown,Child,Brown,Female,Asian,Surprise
+640,Black,Brown,Middle-aged Adults,Brown,Female,Asian,Happiness
+641,White,Black,Old-aged Adults,Hazel,Female,Negroid,Surprise
+642,Black,Gray,Young Adults,Brown,Male,Negroid,Surprise
+643,Black,Gray,Old-aged Adults,Brown,Male,Asian,Surprise
+644,White,Black,Middle-aged Adults,Brown,Male,Asian,Anger
+645,White,Black,Middle-aged Adults,Brown,Male,Asian,Anger
+646,Black,Gray,Middle-aged Adults,Brown,Male,Asian,Surprise
+647,Brown,Brown,Old-aged Adults,Blue,Male,Asian,Happiness
+648,White,Black,Child,Brown,Female,Negroid,Anger
+649,Black,Blond,Young Adults,Hazel,Male,Asian,Happiness
+650,Brown,Black,Old-aged Adults,Brown,Male,Caucasian,Sadness
+651,Black,Gray,Child,Hazel,Female,Negroid,Anger
+652,Brown,Brown,Middle-aged Adults,Blue,Male,Negroid,Anger
+653,White,Blond,Middle-aged Adults,Hazel,Female,Caucasian,Surprise
+654,Black,Gray,Middle-aged Adults,Green,Male,Negroid,Happiness
+655,Black,Black,Young Adults,Blue,Female,Asian,Surprise
+656,Brown,Brown,Young Adults,Blue,Male,Asian,Surprise
+657,Black,Black,Old-aged Adults,Green,Male,Caucasian,Surprise
+658,Black,Gray,Old-aged Adults,Green,Male,Negroid,Sadness
+659,Black,Black,Middle-aged Adults,Blue,Male,Negroid,Happiness
+660,Brown,Blond,Young Adults,Green,Male,Asian,Happiness
+661,Black,Brown,Middle-aged Adults,Blue,Male,Caucasian,Surprise
+662,Black,Blond,Middle-aged Adults,Green,Female,Caucasian,Surprise
+663,Brown,Black,Old-aged Adults,Brown,Male,Caucasian,Happiness
+664,Brown,Brown,Old-aged Adults,Green,Female,Caucasian,Surprise
+665,Brown,Black,Middle-aged Adults,Blue,Female,Negroid,Surprise
+666,Black,Gray,Young Adults,Blue,Female,Asian,Happiness
+667,Brown,Blond,Young Adults,Blue,Male,Asian,Sadness
+668,White,Black,Child,Green,Female,Caucasian,Happiness
+669,White,Black,Young Adults,Brown,Male,Negroid,Anger
+670,Black,Gray,Child,Green,Female,Caucasian,Sadness
+671,Brown,Blond,Middle-aged Adults,Blue,Female,Caucasian,Sadness
+672,Brown,Brown,Old-aged Adults,Green,Female,Asian,Happiness
+673,White,Black,Old-aged Adults,Blue,Male,Caucasian,Anger
+674,Brown,Gray,Young Adults,Hazel,Male,Negroid,Anger
+675,White,Gray,Old-aged Adults,Blue,Male,Asian,Sadness
+676,Black,Black,Old-aged Adults,Blue,Female,Negroid,Happiness
+677,Brown,Gray,Middle-aged Adults,Hazel,Male,Asian,Sadness
+678,Black,Gray,Young Adults,Hazel,Male,Asian,Anger
+679,White,Brown,Old-aged Adults,Brown,Female,Caucasian,Surprise
+680,White,Black,Middle-aged Adults,Green,Male,Negroid,Sadness
+681,White,Gray,Old-aged Adults,Brown,Male,Negroid,Surprise
+682,White,Blond,Middle-aged Adults,Brown,Female,Asian,Surprise
+683,Brown,Black,Middle-aged Adults,Blue,Female,Caucasian,Anger
+684,Black,Brown,Young Adults,Brown,Female,Asian,Anger
+685,Black,Blond,Child,Hazel,Female,Negroid,Anger
+686,Black,Brown,Old-aged Adults,Blue,Male,Negroid,Anger
+687,Black,Black,Old-aged Adults,Brown,Male,Caucasian,Happiness
+688,White,Black,Middle-aged Adults,Brown,Female,Asian,Happiness
+689,White,Gray,Middle-aged Adults,Hazel,Male,Negroid,Anger
+690,Brown,Black,Middle-aged Adults,Brown,Male,Asian,Surprise
+691,Black,Black,Child,Green,Male,Asian,Happiness
+692,White,Black,Child,Blue,Female,Asian,Happiness
+693,Black,Black,Child,Brown,Female,Negroid,Happiness
+694,Black,Brown,Child,Brown,Female,Negroid,Happiness
+695,Brown,Brown,Young Adults,Green,Female,Negroid,Sadness
+696,Brown,Blond,Old-aged Adults,Brown,Male,Asian,Anger
+697,Black,Blond,Child,Blue,Female,Caucasian,Happiness
+698,Black,Gray,Young Adults,Hazel,Female,Caucasian,Sadness
+699,White,Brown,Young Adults,Hazel,Female,Asian,Happiness
+700,Black,Blond,Child,Hazel,Male,Negroid,Happiness
+701,White,Black,Middle-aged Adults,Green,Male,Caucasian,Surprise
+702,Black,Blond,Middle-aged Adults,Brown,Female,Asian,Happiness
+703,White,Black,Middle-aged Adults,Hazel,Female,Caucasian,Happiness
+704,Black,Blond,Middle-aged Adults,Hazel,Female,Asian,Anger
+705,Brown,Brown,Old-aged Adults,Green,Female,Caucasian,Happiness
+706,White,Brown,Young Adults,Brown,Female,Asian,Sadness
+707,Black,Black,Middle-aged Adults,Hazel,Female,Caucasian,Sadness
+708,Brown,Blond,Old-aged Adults,Hazel,Female,Asian,Anger
+709,Brown,Blond,Young Adults,Brown,Female,Negroid,Happiness
+710,Brown,Brown,Old-aged Adults,Brown,Male,Asian,Surprise
+711,Brown,Blond,Child,Hazel,Female,Asian,Surprise
+712,Black,Black,Old-aged Adults,Green,Female,Asian,Anger
+713,Black,Gray,Child,Blue,Female,Asian,Happiness
+714,White,Black,Middle-aged Adults,Blue,Male,Negroid,Happiness
+715,Black,Black,Old-aged Adults,Hazel,Male,Caucasian,Anger
+716,Brown,Blond,Child,Brown,Male,Negroid,Sadness
+717,White,Blond,Young Adults,Green,Female,Asian,Surprise
+718,Black,Blond,Young Adults,Green,Female,Asian,Surprise
+719,Black,Blond,Old-aged Adults,Brown,Male,Caucasian,Happiness
+720,Brown,Black,Old-aged Adults,Blue,Female,Asian,Sadness
+721,Black,Brown,Child,Green,Female,Negroid,Sadness
+722,Black,Gray,Child,Brown,Male,Negroid,Sadness
+723,Black,Blond,Old-aged Adults,Hazel,Male,Asian,Anger
+724,Black,Gray,Old-aged Adults,Hazel,Female,Caucasian,Anger
+725,White,Brown,Child,Hazel,Male,Caucasian,Happiness
+726,Black,Gray,Young Adults,Blue,Male,Caucasian,Sadness
+727,White,Black,Child,Blue,Female,Caucasian,Sadness
+728,Black,Gray,Old-aged Adults,Blue,Male,Caucasian,Sadness
+729,White,Black,Child,Green,Male,Asian,Surprise
+730,Brown,Gray,Middle-aged Adults,Brown,Female,Negroid,Surprise
+731,Black,Black,Child,Green,Female,Caucasian,Surprise
+732,Brown,Blond,Middle-aged Adults,Green,Female,Asian,Anger
+733,Brown,Blond,Old-aged Adults,Hazel,Female,Caucasian,Happiness
+734,Black,Brown,Middle-aged Adults,Brown,Female,Caucasian,Sadness
+735,Black,Blond,Young Adults,Green,Female,Negroid,Happiness
+736,Brown,Black,Child,Hazel,Female,Asian,Happiness
+737,Black,Blond,Child,Hazel,Male,Caucasian,Sadness
+738,Brown,Gray,Old-aged Adults,Hazel,Female,Negroid,Anger
+739,White,Blond,Middle-aged Adults,Green,Female,Caucasian,Anger
+740,Black,Brown,Middle-aged Adults,Brown,Male,Negroid,Happiness
+741,White,Blond,Child,Brown,Male,Asian,Happiness
+742,Brown,Black,Old-aged Adults,Blue,Female,Negroid,Sadness
+743,White,Gray,Old-aged Adults,Blue,Male,Caucasian,Sadness
+744,White,Blond,Child,Hazel,Male,Caucasian,Happiness
+745,Brown,Blond,Old-aged Adults,Brown,Male,Negroid,Anger
+746,White,Brown,Young Adults,Brown,Female,Asian,Happiness
+747,Brown,Brown,Child,Blue,Male,Negroid,Happiness
+748,Brown,Blond,Old-aged Adults,Blue,Male,Asian,Anger
+749,Black,Black,Middle-aged Adults,Blue,Female,Caucasian,Happiness
+750,White,Brown,Middle-aged Adults,Hazel,Male,Asian,Surprise
+751,Brown,Gray,Middle-aged Adults,Brown,Male,Negroid,Happiness
+752,Black,Gray,Young Adults,Blue,Female,Asian,Anger
+753,Brown,Blond,Young Adults,Brown,Male,Asian,Anger
+754,Brown,Gray,Old-aged Adults,Blue,Male,Negroid,Surprise
+755,Brown,Black,Young Adults,Green,Female,Asian,Surprise
+756,White,Gray,Young Adults,Brown,Female,Caucasian,Surprise
+757,Brown,Blond,Old-aged Adults,Hazel,Female,Asian,Happiness
+758,Black,Black,Old-aged Adults,Hazel,Male,Caucasian,Happiness
+759,Black,Blond,Middle-aged Adults,Green,Male,Caucasian,Anger
+760,Brown,Blond,Young Adults,Brown,Female,Negroid,Happiness
+761,White,Gray,Middle-aged Adults,Hazel,Male,Negroid,Anger
+762,Black,Black,Child,Hazel,Male,Caucasian,Happiness
+763,White,Black,Old-aged Adults,Brown,Female,Asian,Happiness
+764,Brown,Black,Middle-aged Adults,Blue,Male,Asian,Happiness
+765,White,Gray,Child,Brown,Male,Asian,Surprise
+766,Black,Gray,Middle-aged Adults,Hazel,Female,Asian,Sadness
+767,White,Gray,Child,Hazel,Male,Asian,Anger
+768,Black,Black,Old-aged Adults,Hazel,Female,Caucasian,Surprise
+769,White,Black,Middle-aged Adults,Green,Male,Negroid,Anger
+770,White,Black,Young Adults,Blue,Male,Asian,Sadness
+771,Black,Gray,Child,Brown,Female,Asian,Surprise
+772,White,Brown,Child,Hazel,Male,Caucasian,Anger
+773,Black,Gray,Middle-aged Adults,Blue,Female,Negroid,Sadness
+774,White,Blond,Child,Blue,Female,Caucasian,Sadness
+775,Brown,Black,Old-aged Adults,Green,Male,Asian,Happiness
+776,Brown,Brown,Middle-aged Adults,Green,Female,Negroid,Sadness
+777,White,Brown,Young Adults,Green,Female,Asian,Surprise
+778,Brown,Blond,Child,Brown,Male,Asian,Anger
+779,Black,Blond,Child,Hazel,Female,Asian,Surprise
+780,Brown,Gray,Old-aged Adults,Green,Male,Asian,Happiness
+781,Brown,Gray,Child,Hazel,Male,Caucasian,Happiness
+782,White,Black,Old-aged Adults,Brown,Female,Negroid,Sadness
+783,Brown,Black,Young Adults,Green,Male,Caucasian,Happiness
+784,Black,Gray,Child,Brown,Female,Negroid,Anger
+785,Black,Black,Old-aged Adults,Blue,Male,Caucasian,Anger
+786,Brown,Brown,Child,Brown,Female,Caucasian,Anger
+787,White,Black,Middle-aged Adults,Brown,Male,Caucasian,Surprise
+788,Black,Gray,Old-aged Adults,Hazel,Male,Caucasian,Sadness
+789,Brown,Gray,Old-aged Adults,Green,Female,Negroid,Anger
+790,Brown,Gray,Middle-aged Adults,Green,Female,Caucasian,Anger
+791,White,Blond,Child,Blue,Male,Asian,Happiness
+792,White,Black,Middle-aged Adults,Blue,Female,Negroid,Happiness
+793,White,Black,Old-aged Adults,Brown,Female,Negroid,Surprise
+794,White,Brown,Child,Hazel,Female,Negroid,Anger
+795,Black,Black,Old-aged Adults,Hazel,Female,Negroid,Anger
+796,White,Black,Old-aged Adults,Blue,Female,Caucasian,Happiness
+797,Black,Blond,Young Adults,Brown,Female,Asian,Anger
+798,White,Gray,Young Adults,Blue,Male,Asian,Happiness
+799,Brown,Black,Young Adults,Hazel,Male,Caucasian,Anger
+800,Brown,Black,Child,Brown,Male,Negroid,Sadness
+801,Brown,Gray,Middle-aged Adults,Blue,Male,Asian,Surprise
+802,White,Black,Old-aged Adults,Green,Male,Negroid,Anger
+803,White,Blond,Child,Green,Male,Caucasian,Anger
+804,Black,Gray,Child,Brown,Female,Asian,Anger
+805,White,Brown,Middle-aged Adults,Hazel,Female,Negroid,Anger
+806,White,Brown,Child,Hazel,Female,Negroid,Sadness
+807,White,Brown,Child,Green,Female,Asian,Anger
+808,White,Blond,Child,Blue,Female,Asian,Anger
+809,White,Blond,Old-aged Adults,Green,Female,Caucasian,Sadness
+810,White,Gray,Middle-aged Adults,Hazel,Male,Asian,Anger
+811,Black,Gray,Child,Brown,Male,Asian,Sadness
+812,White,Brown,Child,Blue,Female,Negroid,Sadness
+813,White,Brown,Child,Green,Female,Caucasian,Surprise
+814,White,Brown,Young Adults,Blue,Male,Asian,Sadness
+815,White,Blond,Young Adults,Green,Female,Caucasian,Sadness
+816,Black,Gray,Child,Blue,Female,Caucasian,Surprise
+817,Brown,Black,Child,Hazel,Male,Negroid,Sadness
+818,White,Gray,Middle-aged Adults,Brown,Male,Asian,Surprise
+819,White,Gray,Old-aged Adults,Hazel,Female,Caucasian,Sadness
+820,White,Blond,Child,Green,Male,Caucasian,Happiness
+821,Brown,Blond,Middle-aged Adults,Brown,Female,Negroid,Surprise
+822,White,Blond,Old-aged Adults,Green,Male,Negroid,Happiness
+823,Brown,Gray,Middle-aged Adults,Brown,Female,Caucasian,Sadness
+824,Black,Blond,Middle-aged Adults,Hazel,Female,Asian,Happiness
+825,White,Black,Old-aged Adults,Brown,Male,Negroid,Surprise
+826,Brown,Gray,Middle-aged Adults,Green,Male,Asian,Anger
+827,White,Brown,Old-aged Adults,Brown,Female,Asian,Happiness
+828,Black,Blond,Old-aged Adults,Blue,Male,Negroid,Surprise
+829,Black,Blond,Child,Brown,Female,Caucasian,Anger
+830,Brown,Black,Old-aged Adults,Blue,Female,Caucasian,Anger
+831,Brown,Blond,Child,Blue,Female,Asian,Surprise
+832,Black,Blond,Child,Blue,Female,Negroid,Surprise
+833,Black,Black,Young Adults,Brown,Male,Caucasian,Sadness
+834,Brown,Gray,Old-aged Adults,Hazel,Male,Negroid,Anger
+835,Black,Brown,Middle-aged Adults,Brown,Female,Caucasian,Anger
+836,Black,Brown,Child,Hazel,Male,Asian,Surprise
+837,White,Black,Young Adults,Brown,Male,Negroid,Surprise
+838,Black,Blond,Middle-aged Adults,Hazel,Male,Asian,Anger
+839,Brown,Brown,Young Adults,Blue,Female,Caucasian,Surprise
+840,Black,Black,Old-aged Adults,Blue,Female,Asian,Sadness
+841,Black,Gray,Old-aged Adults,Brown,Female,Caucasian,Anger
+842,White,Blond,Old-aged Adults,Hazel,Male,Asian,Surprise
+843,Brown,Blond,Child,Hazel,Male,Caucasian,Surprise
+844,Brown,Black,Child,Brown,Female,Negroid,Happiness
+845,White,Black,Young Adults,Hazel,Female,Asian,Surprise
+846,White,Black,Old-aged Adults,Hazel,Male,Negroid,Surprise
+847,Brown,Black,Child,Hazel,Male,Caucasian,Happiness
+848,White,Blond,Young Adults,Hazel,Female,Negroid,Surprise
+849,Brown,Blond,Child,Hazel,Female,Asian,Sadness
+850,Brown,Brown,Young Adults,Green,Female,Negroid,Happiness
+851,Black,Brown,Middle-aged Adults,Blue,Female,Negroid,Anger
+852,Black,Blond,Young Adults,Hazel,Female,Negroid,Happiness
+853,Black,Blond,Child,Hazel,Male,Caucasian,Surprise
+854,Black,Blond,Child,Brown,Male,Asian,Sadness
+855,White,Blond,Young Adults,Blue,Female,Asian,Happiness
+856,Brown,Brown,Old-aged Adults,Green,Female,Caucasian,Anger
+857,Black,Blond,Young Adults,Hazel,Female,Negroid,Happiness
+858,White,Gray,Middle-aged Adults,Hazel,Male,Negroid,Anger
+859,Brown,Gray,Young Adults,Blue,Female,Caucasian,Happiness
+860,White,Brown,Young Adults,Green,Female,Negroid,Surprise
+861,Brown,Brown,Young Adults,Hazel,Female,Negroid,Surprise
+862,White,Black,Old-aged Adults,Blue,Male,Asian,Happiness
+863,Black,Brown,Young Adults,Brown,Female,Asian,Anger
+864,Brown,Black,Old-aged Adults,Blue,Female,Caucasian,Happiness
+865,Brown,Black,Middle-aged Adults,Brown,Male,Negroid,Sadness
+866,Brown,Gray,Middle-aged Adults,Blue,Male,Caucasian,Happiness
+867,Black,Black,Middle-aged Adults,Hazel,Male,Asian,Surprise
+868,Brown,Gray,Young Adults,Blue,Male,Negroid,Happiness
+869,White,Black,Old-aged Adults,Hazel,Female,Asian,Surprise
+870,Black,Blond,Young Adults,Brown,Male,Caucasian,Happiness
+871,Black,Gray,Middle-aged Adults,Blue,Female,Asian,Sadness
+872,White,Blond,Middle-aged Adults,Hazel,Male,Negroid,Anger
+873,Brown,Gray,Child,Green,Male,Negroid,Happiness
+874,White,Gray,Young Adults,Brown,Female,Caucasian,Surprise
+875,Black,Brown,Middle-aged Adults,Hazel,Male,Asian,Surprise
+876,Brown,Brown,Child,Blue,Male,Asian,Surprise
+877,Brown,Brown,Old-aged Adults,Blue,Male,Negroid,Anger
+878,Brown,Gray,Young Adults,Brown,Female,Asian,Anger
+879,White,Blond,Old-aged Adults,Brown,Male,Asian,Anger
+880,Brown,Brown,Young Adults,Green,Female,Asian,Happiness
+881,Black,Gray,Young Adults,Brown,Male,Negroid,Surprise
+882,Black,Gray,Child,Brown,Female,Caucasian,Anger
+883,Black,Black,Old-aged Adults,Hazel,Female,Caucasian,Anger
+884,Brown,Brown,Old-aged Adults,Green,Female,Asian,Sadness
+885,White,Black,Middle-aged Adults,Brown,Female,Caucasian,Anger
+886,Brown,Black,Young Adults,Brown,Male,Caucasian,Surprise
+887,White,Black,Child,Brown,Male,Caucasian,Sadness
+888,Brown,Gray,Old-aged Adults,Green,Female,Asian,Surprise
+889,White,Blond,Middle-aged Adults,Blue,Female,Caucasian,Happiness
+890,Black,Black,Child,Blue,Male,Caucasian,Sadness
+891,Black,Black,Old-aged Adults,Green,Male,Caucasian,Anger
+892,Brown,Brown,Young Adults,Blue,Male,Caucasian,Happiness
+893,Brown,Black,Young Adults,Brown,Male,Asian,Happiness
+894,Brown,Brown,Child,Green,Female,Negroid,Sadness
+895,Brown,Brown,Child,Blue,Female,Asian,Anger
+896,Black,Black,Old-aged Adults,Brown,Male,Negroid,Sadness
+897,Black,Brown,Young Adults,Blue,Female,Caucasian,Sadness
+898,White,Blond,Child,Blue,Male,Asian,Surprise
+899,White,Black,Young Adults,Brown,Male,Asian,Surprise
+900,Black,Blond,Young Adults,Green,Female,Negroid,Sadness
+901,Brown,Blond,Young Adults,Brown,Male,Negroid,Anger
+902,Brown,Brown,Young Adults,Brown,Female,Asian,Anger
+903,White,Brown,Child,Hazel,Female,Negroid,Surprise
+904,Brown,Brown,Child,Green,Male,Caucasian,Surprise
+905,Brown,Black,Middle-aged Adults,Blue,Male,Caucasian,Anger
+906,Black,Black,Old-aged Adults,Brown,Female,Caucasian,Surprise
+907,White,Black,Middle-aged Adults,Hazel,Female,Negroid,Surprise
+908,Black,Brown,Young Adults,Green,Male,Negroid,Anger
+909,Brown,Black,Child,Hazel,Male,Negroid,Sadness
+910,Brown,Blond,Young Adults,Green,Male,Negroid,Sadness
+911,White,Brown,Middle-aged Adults,Blue,Female,Asian,Surprise
+912,White,Brown,Middle-aged Adults,Green,Male,Caucasian,Anger
+913,Black,Blond,Child,Green,Female,Caucasian,Surprise
+914,Brown,Gray,Child,Brown,Female,Asian,Anger
+915,Brown,Gray,Old-aged Adults,Brown,Female,Caucasian,Sadness
+916,White,Blond,Young Adults,Blue,Female,Caucasian,Surprise
+917,Black,Brown,Child,Green,Male,Caucasian,Anger
+918,Black,Black,Child,Brown,Female,Negroid,Happiness
+919,White,Blond,Child,Green,Male,Negroid,Surprise
+920,White,Gray,Middle-aged Adults,Blue,Male,Negroid,Surprise
+921,Black,Black,Child,Brown,Male,Caucasian,Sadness
+922,White,Blond,Child,Brown,Female,Negroid,Happiness
+923,Brown,Black,Old-aged Adults,Hazel,Female,Negroid,Surprise
+924,Brown,Gray,Young Adults,Hazel,Female,Caucasian,Happiness
+925,Black,Brown,Young Adults,Hazel,Male,Negroid,Sadness
+926,Brown,Black,Young Adults,Green,Male,Negroid,Surprise
+927,White,Brown,Child,Brown,Male,Asian,Surprise
+928,White,Blond,Middle-aged Adults,Blue,Female,Negroid,Happiness
+929,Brown,Black,Young Adults,Brown,Female,Caucasian,Happiness
+930,White,Brown,Child,Blue,Male,Caucasian,Anger
+931,Brown,Brown,Child,Brown,Male,Caucasian,Surprise
+932,Brown,Gray,Middle-aged Adults,Blue,Female,Asian,Happiness
+933,Black,Gray,Middle-aged Adults,Hazel,Female,Caucasian,Happiness
+934,Brown,Gray,Middle-aged Adults,Brown,Male,Negroid,Anger
+935,White,Black,Middle-aged Adults,Blue,Male,Caucasian,Surprise
+936,White,Blond,Child,Blue,Female,Asian,Surprise
+937,Black,Gray,Middle-aged Adults,Green,Female,Caucasian,Sadness
+938,White,Blond,Old-aged Adults,Blue,Female,Caucasian,Surprise
+939,Black,Brown,Middle-aged Adults,Blue,Male,Negroid,Anger
+940,White,Black,Young Adults,Blue,Female,Caucasian,Happiness
+941,White,Brown,Old-aged Adults,Brown,Male,Negroid,Anger
+942,Brown,Black,Child,Brown,Male,Negroid,Surprise
+943,Black,Gray,Middle-aged Adults,Green,Female,Caucasian,Happiness
+944,White,Blond,Middle-aged Adults,Hazel,Male,Asian,Anger
+945,Brown,Black,Middle-aged Adults,Green,Female,Negroid,Sadness
+946,Brown,Gray,Young Adults,Brown,Male,Asian,Surprise
+947,Brown,Gray,Child,Hazel,Female,Negroid,Happiness
+948,White,Blond,Child,Blue,Female,Asian,Surprise
+949,Black,Brown,Old-aged Adults,Green,Male,Negroid,Happiness
+950,Brown,Black,Child,Green,Male,Caucasian,Happiness
+951,White,Brown,Middle-aged Adults,Green,Male,Caucasian,Anger
+952,Brown,Brown,Young Adults,Blue,Male,Asian,Happiness
+953,White,Gray,Child,Blue,Female,Negroid,Happiness
+954,Black,Blond,Child,Blue,Male,Asian,Anger
+955,Brown,Blond,Old-aged Adults,Hazel,Female,Asian,Surprise
+956,White,Black,Young Adults,Green,Female,Caucasian,Sadness
+957,White,Blond,Middle-aged Adults,Green,Male,Negroid,Anger
+958,Black,Blond,Young Adults,Green,Male,Asian,Anger
+959,White,Brown,Child,Hazel,Male,Asian,Surprise
+960,White,Blond,Young Adults,Hazel,Female,Asian,Sadness
+961,Black,Blond,Middle-aged Adults,Hazel,Female,Asian,Anger
+962,Black,Brown,Child,Green,Male,Asian,Anger
+963,White,Blond,Middle-aged Adults,Hazel,Male,Caucasian,Surprise
+964,White,Gray,Middle-aged Adults,Blue,Male,Caucasian,Happiness
+965,Brown,Gray,Young Adults,Brown,Male,Caucasian,Surprise
+966,Black,Black,Old-aged Adults,Brown,Female,Caucasian,Surprise
+967,Brown,Brown,Old-aged Adults,Brown,Male,Asian,Sadness
+968,Brown,Black,Old-aged Adults,Blue,Female,Caucasian,Anger
+969,White,Gray,Old-aged Adults,Brown,Male,Negroid,Happiness
+970,Black,Brown,Middle-aged Adults,Hazel,Female,Negroid,Anger
+971,White,Black,Old-aged Adults,Blue,Male,Caucasian,Anger
+972,Brown,Gray,Young Adults,Hazel,Female,Caucasian,Happiness
+973,Brown,Gray,Old-aged Adults,Green,Female,Caucasian,Happiness
+974,White,Brown,Old-aged Adults,Brown,Female,Caucasian,Anger
+975,Brown,Gray,Young Adults,Green,Male,Asian,Surprise
+976,Brown,Gray,Young Adults,Brown,Female,Asian,Happiness
+977,Brown,Black,Child,Hazel,Female,Caucasian,Anger
+978,Black,Brown,Middle-aged Adults,Blue,Male,Caucasian,Sadness
+979,White,Blond,Middle-aged Adults,Green,Female,Negroid,Anger
+980,Brown,Brown,Middle-aged Adults,Hazel,Male,Negroid,Surprise
+981,Brown,Blond,Child,Brown,Male,Caucasian,Surprise
+982,White,Gray,Old-aged Adults,Blue,Female,Caucasian,Happiness
+983,White,Brown,Old-aged Adults,Blue,Male,Caucasian,Sadness
+984,Black,Brown,Middle-aged Adults,Hazel,Male,Negroid,Surprise
+985,White,Blond,Old-aged Adults,Blue,Male,Asian,Surprise
+986,White,Brown,Child,Green,Male,Caucasian,Anger
+987,Brown,Black,Child,Blue,Female,Caucasian,Sadness
+988,Black,Blond,Middle-aged Adults,Blue,Male,Asian,Surprise
+989,Black,Brown,Middle-aged Adults,Brown,Male,Caucasian,Happiness
+990,White,Black,Middle-aged Adults,Green,Male,Asian,Happiness
+991,Black,Brown,Child,Blue,Female,Negroid,Anger
+992,White,Brown,Young Adults,Green,Male,Negroid,Anger
+993,Black,Gray,Old-aged Adults,Brown,Female,Asian,Sadness
+994,White,Blond,Middle-aged Adults,Hazel,Female,Asian,Happiness
+995,Brown,Gray,Old-aged Adults,Green,Male,Asian,Anger
+996,White,Gray,Young Adults,Green,Male,Caucasian,Anger
+997,Brown,Blond,Child,Hazel,Male,Asian,Anger
+998,Brown,Black,Child,Blue,Female,Asian,Happiness
+999,White,Brown,Old-aged Adults,Brown,Female,Caucasian,Surprise
+1000,White,Brown,Old-aged Adults,Hazel,Female,Caucasian,Sadness
