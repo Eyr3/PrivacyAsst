@@ -4,6 +4,7 @@ This repository is the official implementation of [PrivacyAsst: Safeguarding Use
 
 ## Quick Start
 
+Our project is based on [HuggingGPT](https://github.com/microsoft/JARVIS/tree/main/hugginggpt), so the system requirements and usage are similar.
 
 ### For User:
 
