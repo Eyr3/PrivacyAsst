@@ -203,7 +203,8 @@ Success log:
     "results": {"0": {"task": {"task": "text-to-encimage", "id": 0, "dep": [-1], "args": {"text": "generate a face image [using key=8]"}}, "inference result": {"generated image": "public/images/image_bytes_9507_DH_KEY_YB=17"}, "choose model result": {"id": "runwayml/stable-diffusion-v1-5-enc", "reason": "Only one model available."}}}, 
     "response": "I understand your request. Based on the inference results, I have generated a face image using the key 8. The model used for this task is runwayml/stable-diffusion-v1-5-enc. The generated image is available at the following URL: public/images/image_bytes_9507_DH_KEY_YB=17. I hope this is helpful. Is there anything else I can help you with?", 
     "during": 17.535484552383423, 
-    "op": "response"}
+    "op": "response"
+}
 ```
 
 
