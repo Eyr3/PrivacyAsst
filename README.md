@@ -1,6 +1,13 @@
-# PrivacyAsst
+# PrivacyAsst: Safeguarding User Privacy in Tool-Using Large Language Model Agents
 
-This repository is the official implementation of [PrivacyAsst: Safeguarding User Privacy in Tool-Using Large Language Model Agents](https://ieeexplore.ieee.org/document/10458329), Xinyu Zhang, Huiyu Xu, Zhongjie Ba, Zhibo Wang, Yuan Hong, Jian Liu, Zhan Qin, Kui Ren. IEEE Transactions on Dependable and Secure Computing, 2024.
+This repository is the official implementation of [PrivacyAsst: Safeguarding User Privacy in Tool-Using Large Language Model Agents](https://ieeexplore.ieee.org/document/10458329), Xinyu Zhang, Huiyu Xu, Zhongjie Ba, Zhibo Wang, Yuan Hong, Jian Liu, Zhan Qin, Kui Ren. IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2024.
+
+
+## Introduction
+
+Swift advancements in large language model (LLM) technologies lead to widespread research and applications, particularly in integrating LLMs with auxiliary tools, known as tool-using LLM agents. However, amid user interactions, the transmission of private information to both LLMs and tools poses considerable privacy risks to users. In this paper, we delve into current privacy-preserving solutions for LLMs and outline three pivotal challenges for tool-using LLM agents: generalization to both open-source and closed-source LLMs and tools, compliance with privacy requirements, and applicability to unrestricted tasks. To tackle these challenges, we present PrivacyAsst, the first privacy-preserving framework tailored for tool-using LLM agents, encompassing two solutions for different application scenarios. First, we incorporate a homomorphic encryption scheme to ensure computational security guarantees for users as a safeguard against both open-source and closed-source LLMs and tools. Moreover, we propose a shuffling-based solution to broaden the framework's applicability to unrestricted tasks. This solution employs an attribute-based forgery generative model and an attribute shuffling mechanism to craft privacy-preserving requests, effectively concealing individual inputs. Additionally, we introduce an innovative privacy concept, t-closeness in image data, for privacy compliance within this solution. Finally, we implement PrivacyAsst, accompanied by two case studies, demonstrating its effectiveness in advancing privacy-preserving artificial intelligence.
+
+<p align="center"><img src="./assets/PrivacyAsst_Intro.png"></p>
 
 ## Quick Start
 
@@ -43,7 +50,7 @@ python awesome_chat_enc.py --config configs/config.default_enc.yaml --mode cli
 
 ## New Components
 
-### server/configs/config.default_enc.yaml
+### 1. server/configs/config.default_enc.yaml
 
 ```
 diff_hellmen:   # optional: if the encryption of the content is required
@@ -54,7 +61,7 @@ diff_hellmen:   # optional: if the encryption of the content is required
 
 
 
-### server/data/p0_models.jsonl
+### 2. server/data/p0_models.jsonl
 
 **Add two models: Encryption-based Solution (TenSEAL/encrypt-cnn-mnist) and Shuffling-based Solution (runwayml/stable-diffusion-v1-5-enc)**
 ```
@@ -69,7 +76,7 @@ It is recommended to deploy the `TenSEAL/encrypt-cnn-mnist` model locally.
 
 
 
-### server/models_server.py
+### 3. server/models_server.py
 
 **Add two models: Encryption-based Solution (TenSEAL/encrypt-cnn-mnist) and Shuffling-based Solution (runwayml/stable-diffusion-v1-5-enc)**
 ```
@@ -84,7 +91,10 @@ It is recommended to deploy the `TenSEAL/encrypt-cnn-mnist` model locally.
 },
 ```
 
-### server/awesome_chat_enc.py
+### 4. server/awesome_chat_enc.py
+
+**Task response**
+
 ```
 if task == "encryption-image-classification":
     response = requests.post(task_url, json=data)
@@ -102,11 +112,11 @@ if DH_KEY_1 is not None and task["task"] in ["text-to-image"]:
     task["args"]["text"] = f"{text_tmp} [using key={DH_KEY_1}]"
 ```
 
-### server/get_token_ids.py
+### 5. server/get_token_ids.py
 `text.task` in function `get_token_ids_for_task_parsing` needs to add "encryption-image-classification".
 
 
-### server/diffusers_enc/pipelines/stable_diffusion/pipeline_stable_diffusion.py
+### 6. server/diffusers_enc/pipelines/stable_diffusion/pipeline_stable_diffusion.py
 
 **diffusers_enc: Privacy Attributes**
 ```
@@ -173,11 +183,11 @@ return StableDiffusionPipelineOutput(images=image, nsfw_content_detected=has_nsf
 
 ```
 
-### /user/HomomorphicEnc
+### 7. /user/HomomorphicEnc
 
 `decrypt_enclabel.py`: Decrypt the encrypted labels.
 
-### /user/tCloseness
+### 8. /user/tCloseness
 
 `decrypt_encimage.py`: Decrypt the encryped images in the Phase I. 
 
@@ -216,6 +226,8 @@ Success log:
 
 
 ## Citation
+If you find our work useful, please consider citing:
+
 ```
 @article{zhang2024privacyasst,
   title={PrivacyAsst: Safeguarding User Privacy in Tool-Using Large Language Model Agents},
